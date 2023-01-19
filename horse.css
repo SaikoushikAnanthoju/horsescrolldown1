@@ -1,0 +1,50 @@
+
+body{
+    margin:0;
+}
+
+.horse{
+    margin-top:230px;
+    margin-left:510px;
+}
+.horse pre{
+    margin:0;
+}
+#repeated-lines{
+
+    position:relative;
+    left:595px;
+    
+    
+
+}
+#repeated-lines pre{
+    margin:0;
+    
+}
+
+.rewards{
+    position: relative;
+    left:720px;
+    padding-bottom: 100px;
+    
+   
+}
+
+.rewards a{
+    position: relative;
+    right:10px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.rewards a:hover{
+    text-decoration: underline;
+}
+
+.rewards p{
+    margin-bottom: 0px;
+    position: relative;
+    right: -10px;
+}
